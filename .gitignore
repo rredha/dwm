@@ -1,2 +1,2 @@
-./backup
-./ccls-cache
+./.backup/
+./.ccls-cache/
