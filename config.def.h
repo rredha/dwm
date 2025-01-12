@@ -84,7 +84,7 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_period, focusmon,       {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_comma,  tagmon,         {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },
-	TAGKEYS(                        XK_quotebl,                0)
+	TAGKEYS(                        XK_quotedbl,                0)
 	TAGKEYS(                        XK_guillemotleft,          1)
 	TAGKEYS(                        XK_guillemotright,         2)
 	TAGKEYS(                        XK_parenleft,              3)
